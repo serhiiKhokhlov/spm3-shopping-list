@@ -1,3 +1,6 @@
 lebkuchen
 orangen
 gluehmost
+äpfel
+birne
+nüsse
